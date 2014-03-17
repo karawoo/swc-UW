@@ -1,3 +1,5 @@
+## This file generates a plot of random numbers with noise
+set.seed(99)
 a <- 2
 b <- -3
 sigSq <- 0.5
